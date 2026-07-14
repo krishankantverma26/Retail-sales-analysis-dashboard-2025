@@ -19,3 +19,7 @@ This project demonstrates an interactive retail sales dashboard built in Microso
 
 ## Project Type
 Portfolio / Sample Project
+## Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
+![Retail Sales Dashboard](Retail sales analysis.png)

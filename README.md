@@ -22,4 +22,4 @@ Portfolio / Sample Project
 ## Dashboard Preview
 
 ![Retail Sales Dashboard](dashboard.png)
-![Retail Sales Dashboard](Retail sales analysis.png)
+Retail sales analysis.png
